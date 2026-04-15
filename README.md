@@ -30,6 +30,26 @@
 <a id="english"></a>
 # Hakoniwa Sumo (English)
 
-**Note:** The game itself is only available in Japanese. There is no English localization.
+**Note:** The source code and assets provided here are based on the original Japanese version. There is no English localization included in this repository.
 
-he compiled, ready-to-play version of the game remains available for free on Steam.
+The compiled, ready-to-play version of the game (which supports English) remains available for free on Steam. Please use that version if you only wish to play the game.
+
+## Current Project Status and Open Sourcing
+Thank you for your continued support of "Hakoniwa Sumo." It has been over five years since I was last active in the development of this game. 
+Unfortunately, the resources for the English-localized version have been lost. However, the original Japanese-only version miraculously survived, so I am releasing all of its resources as open-source. Please feel free to fork, modify, and redistribute it.
+
+## Repository Content
+To keep the repository lightweight, it only contains the following:
+* **`src` folder**: Game source code.
+* **`release` folder**: Assets required for execution.
+
+## Build Instructions
+This project was developed using the **DX Library**. The library itself is not included in this repository. 
+If you wish to compile or build the game from the source code, please download the DX Library from the official website and set it up in your development environment (such as Visual Studio).
+
+* **DX Library Official Site**: [https://dxlib.xsrv.jp/](https://dxlib.xsrv.jp/)
+
+## License and Assets
+This project is licensed under the **MIT License**.
+
+All images and music found in the `release` folder are completely original works created by me from scratch. No external materials were used. Therefore, **all data within this repository—including both the source code and the assets—is subject to the MIT License.** You are free to use them for both commercial and non-commercial purposes.
