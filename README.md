@@ -1,5 +1,3 @@
-# hakoniwa-sumo
-
 # 箱庭小相撲 (Hakoniwa Sumo)
 
 [English follows Japanese](#english)
@@ -30,29 +28,8 @@
 ---
 
 <a id="english"></a>
-# Hakoniwa Ko-Ekiden 2 (English)
+# Hakoniwa Sumo (English)
 
-## Project Status and Open Sourcing
-Thank you for your interest in "Hakoniwa Ko-Ekiden 2".
-I, the original author (Shin Tomura), have decided to step away from any future development and maintenance of this project.
+**Note:** The game itself is only available in Japanese. There is no English localization.
 
-I am open-sourcing all resources with the hope that the code and assets I have cultivated will be useful to those learning game development or wanting to implement new ideas. I am completely entrusting the future of this project to the community. Please feel free to fork, modify, and redistribute it.
-
-## Repository Contents
-To keep the repository lightweight, it contains only the following:
-* The game's source code (2 files)
-* The `release` folder (execution assets published on platforms like Steam)
-
-## Build Instructions
-This project was developed using the "DX Library" (a Japanese game development framework). However, the DX Library itself is NOT included in this repository.
-To compile and build the game from source, you will need to download the DX Library from the official website below and set it up in your development environment (such as Visual Studio).
-
-* DX Library Official Website: https://dxlib.xsrv.jp/ (Japanese only)
-
-## License and Assets
-This project is licensed under the **MIT License**.
-
-All assets contained in the `release` folder—including images, audio, and **all 3D MMD models and motion data used for the runners**—are 100% original, created entirely from scratch by me without using any third-party materials.
-Therefore, **everything in this repository, including both the source code and the asset data, is fully covered by the MIT License**. You are free to use them for both commercial and non-commercial purposes.
-
-Please note that the compiled, ready-to-play version of the game remains available for free on Steam.
+he compiled, ready-to-play version of the game remains available for free on Steam.
